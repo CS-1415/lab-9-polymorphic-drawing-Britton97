@@ -1,11 +1,11 @@
 using NUnit.Framework;
-/*
+
 namespace Lab08.Tests;
 
 public class RectangleTests
 {
-    Rectangle rectangle;
-    AbstractGraphic2D shape;
+    Rectangle rectangle = null!;
+    AbstractGraphic2D shape = null!;
 
     [SetUp]
     public void Setup()
@@ -17,26 +17,26 @@ public class RectangleTests
     [Test]
     public void EnsurePropertiesAreCorrect()
     {
-        Assert.AreEqual(3, rectangle.Left);
-        Assert.AreEqual(4, rectangle.Top);
-        Assert.AreEqual(5, rectangle.Width);
-        Assert.AreEqual(6, rectangle.Height);
+        Assert.That(rectangle.Left, Is.EqualTo(3));
+        Assert.That(rectangle.Top, Is.EqualTo(4));
+        Assert.That(rectangle.Width, Is.EqualTo(5));
+        Assert.That(rectangle.Height, Is.EqualTo(6));
     }
 
     [Test]
     public void CheckLowerBounds()
     {
         // lower bound is the smallest x that needs to be checked when drawing the shape
-        Assert.AreEqual(3, shape.LowerBoundX);
-        Assert.AreEqual(4, shape.LowerBoundY);
+        Assert.That(shape.LowerBoundX, Is.EqualTo(3));
+        Assert.That(shape.LowerBoundY, Is.EqualTo(4));
     }
 
     [Test]
     public void CheckUpperBounds()
     {
         // upper bound is the largest x that needs to be checked when drawing the shape
-        Assert.AreEqual(3 + 5, shape.UpperBoundX);
-        Assert.AreEqual(4 + 6, shape.UpperBoundY);
+        Assert.That(shape.UpperBoundX, Is.EqualTo(3 + 5));
+        Assert.That(shape.UpperBoundY, Is.EqualTo(4 + 6));
     }
 
     [Test]
@@ -63,4 +63,3 @@ public class RectangleTests
         Assert.IsFalse(shape.ContainsPoint(8 + 0.1m, 10));
     }
 }
-*/

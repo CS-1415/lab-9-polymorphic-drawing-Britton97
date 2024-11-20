@@ -39,6 +39,7 @@ public abstract class AbstractGraphic2D : IGraphic2D
 
     public bool Display()
     {
+        //Console.Clear();
         Console.ForegroundColor = ForegroundColor;
         Console.BackgroundColor = BackgroundColor;
         int lowX = (int)decimal.Floor(LowerBoundX);
