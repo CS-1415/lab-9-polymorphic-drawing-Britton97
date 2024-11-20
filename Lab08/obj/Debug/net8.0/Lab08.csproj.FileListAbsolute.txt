@@ -1,0 +1,12 @@
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\bin\Debug\net8.0\Lab08.deps.json
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\bin\Debug\net8.0\Lab08.dll
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\bin\Debug\net8.0\Lab08.pdb
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\obj\Debug\net8.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\obj\Debug\net8.0\Lab08.AssemblyInfoInputs.cache
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\obj\Debug\net8.0\Lab08.AssemblyInfo.cs
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\obj\Debug\net8.0\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\obj\Debug\net8.0\Lab08.sourcelink.json
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\obj\Debug\net8.0\Lab08.dll
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\obj\Debug\net8.0\refint\Lab08.dll
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\obj\Debug\net8.0\Lab08.pdb
+C:\Users\Britton\Desktop\Programming 1415\lab-9-polymorphic-drawing-Britton97\Lab08\obj\Debug\net8.0\ref\Lab08.dll
